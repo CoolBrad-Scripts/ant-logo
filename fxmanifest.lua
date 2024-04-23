@@ -11,7 +11,6 @@ ui_page "nui/nui.html"
 
 files {
 	"nui/images/*",
-	"nui/script.js",
 	"nui/style.css",
 	"nui/nui.html",
 }
